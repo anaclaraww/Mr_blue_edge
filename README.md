@@ -69,7 +69,17 @@ Mr_blue_edge/
 ```
 
 > [!WARNING]
-> projeto possui duas versões pois o simulador de GPS interfere no acendimento das Leds, porém é uma condição que não aconteceria em equipamentos reias. 
+> projeto possui duas versões pois o simulador de GPS interfere no acendimento das Leds, porém é uma condição que não aconteceria em equipamentos reias.
+
+**Simulação simulador_gs/**
+
+
+<img src="https://github.com/anaclaraww/Mr_blue_edge/blob/main/simulador_gs.png" alt="Texto Alternativo">
+
+**Simulação simulador_led_gs/**
+
+
+<img src="https://github.com/anaclaraww/Mr_blue_edge/blob/main/simulador_led.png" alt="Texto Alternativo">
 
 **Benefícios do Projeto:**
 
