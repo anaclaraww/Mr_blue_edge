@@ -79,7 +79,7 @@ Mr_blue_edge/
 **Simulação simulador_led_gs/**
 
 
-<img src="https://github.com/anaclaraww/Mr_blue_edge/blob/main/simulador_led.png" alt="Texto Alternativo">
+<img src="https://github.com/anaclaraww/Mr_blue_edge/blob/main/simulador_gs_led.png" alt="Texto Alternativo">
 
 **Benefícios do Projeto:**
 
