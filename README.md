@@ -8,8 +8,7 @@ Este projeto Arduino visa integrar um sistema de detecção de garrafas plástic
     * DHT11: Medição de temperatura e umidade
     * LDR: Detecção de luminosidade (escuro/claro)
     * GPS (simulado): Obtenção de coordenadas geográficas
-* **Atuadores:**
-    * LEDs: Sinais visuais para indicar o status do sistema
+
 * **Comunicação:**
     * LCD IC2: Componene visual com circuito integrado.
     * Envio de dados para python (intenção)
@@ -20,7 +19,6 @@ Este projeto Arduino visa integrar um sistema de detecção de garrafas plástic
 * Sensor DHT11
 * Sensor LDR
 * LCD ic2
-* LEDs
 * Módulo GPS simulado (adaptado da versão de Anderson Costa)
 
 **Funcionamento do Sistema:**
@@ -68,18 +66,12 @@ Mr_blue_edge/
 │   ├── sketch.ino             # Arquivo com o código Arduino com demostração das led e LDR.
 ```
 
-> [!WARNING]
-> projeto possui duas versões pois o simulador de GPS interfere no acendimento das Leds, porém é uma condição que não aconteceria em equipamentos reias.
-
 **Simulação simulador_gs/**
 
 
 <img src="https://github.com/anaclaraww/Mr_blue_edge/blob/main/simulador_gs.png" alt="Texto Alternativo">
 
-**Simulação simulador_led_gs/**
 
-
-<img src="https://github.com/anaclaraww/Mr_blue_edge/blob/main/simulador_gs_led.png" alt="Texto Alternativo">
 
 **Benefícios do Projeto:**
 
